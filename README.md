@@ -1,4 +1,4 @@
-# 📝 Mini Blog (Laravel 10)
+# 📝 Mini Blog (Laravel 11)
 
 A lightweight Laravel-based Mini Blog project featuring secure authentication, REST APIs via Postman, and image-based blog posting.
 
